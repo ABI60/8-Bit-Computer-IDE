@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "python.autoComplete.extraPaths": ["${workspaceFolder}/packages"],
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+          "source": "PowerShell",
+          "icon": "terminal-powershell",
+          "args": ["-ExecutionPolicy", "Bypass"]
+        }
+      },
+      "terminal.integrated.defaultProfile.windows": "PowerShell",
+      "python.analysis.extraPaths": [
+        "${workspaceFolder}/packages"
+      ],
+}

@@ -1,0 +1,26 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Main",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": ["${workspaceFolder}/main.py"],
+            "group": "build",
+        },
+        {
+            "label": "Run Build",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": ["${workspaceFolder}/build.py"],
+            "group": "build"
+        },
+        {
+            "label": "Run Interface",
+            "type": "shell",
+            "command": "${command:python.interpreterPath}",
+            "args": ["-m", "interface"],
+            "group": "build"
+        }
+    ]
+}

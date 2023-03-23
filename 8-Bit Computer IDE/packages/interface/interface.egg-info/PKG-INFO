@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: interface
+Version: 1.0
+Summary: Package used to create an interface with the custom 8-bit computer programmer
+Home-page: youtube.com/Microesque
+Author: Microesque
+Author-email: Microesque@gmail.com
+Requires-Python: >=3.7

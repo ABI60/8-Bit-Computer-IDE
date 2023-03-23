@@ -1,0 +1,2 @@
+[console_scripts]
+interface = interface.__main__:main

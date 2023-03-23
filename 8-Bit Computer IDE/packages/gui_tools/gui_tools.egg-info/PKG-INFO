@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: gui-tools
+Version: 1.0
+Summary: Package used to handle gui elements and etc.
+Home-page: youtube.com/Microesque
+Author: Microesque
+Author-email: Microesque@gmail.com
+Requires-Python: >=3.7

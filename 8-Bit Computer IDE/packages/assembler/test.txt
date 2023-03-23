@@ -1,0 +1,21 @@
+nop
+mov 250,a
+add a,b
+add b,a
+mov result, a
+mov a,b
+mov 99,b
+nop
+mov 250,a
+add a,b
+add b,a
+mov result, a
+mov a,b
+mov 99,b
+nop
+mov 250,a
+add a,b
+add b,a
+mov result, a
+mov a,b
+mov 99,b

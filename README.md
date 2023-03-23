@@ -33,6 +33,8 @@ Sıfırdan yaptığım 8-bit bilgisayarın IDE ve assembler ı.
 
 - IDE "config.cfg" dosyası kullanarak ayarlarını kaydeder ve yükler, böylece kullanıcı IDE ayarlarını değiştirip kapatırsa, yeniden açtığında ayarlar geri yüklenir. "build.py" gerekli dosyların transferini otomatik yapar.
 
+- Hala yapım aşamasındadır ve ileride tam donanımlı bir IDE olmasını planlıyorum.
+
 
 <img src="./Resimler/VS Code Resim.jpg" width="500">
 
